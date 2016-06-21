@@ -10,6 +10,9 @@ var myReduce = require('./myReduce');
 var numArray = [0,1,10,100,1000];
 
 
+
+
+
 /* myEach */
 
 //
